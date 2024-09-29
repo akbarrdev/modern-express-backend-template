@@ -33,7 +33,7 @@ A modern, robust, and scalable backend server starter kit built with Node.js, Ex
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/modern-express-backend-starter.git
+   git clone https://github.com/akbarrdev/modern-express-backend-starter.git
    cd modern-express-backend-starter
    ```
 
